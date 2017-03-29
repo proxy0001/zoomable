@@ -1,5 +1,13 @@
 # Zoomable
 
+將之前在ionic2上初步實作的放大縮小拖曳功能移至純angular2的環境。
+在手機上可以用手勢放大縮小。預期進一步的完善。
+
+1. 整理與重構
+2. 新增桌機的放大縮小介面與功能串接
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
 ## Development server
