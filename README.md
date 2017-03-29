@@ -1,5 +1,7 @@
 # Zoomable
 
+live demo: http://zoomable.proxy0001.com/
+
 將之前在ionic2上初步實作的放大縮小拖曳功能移至純angular2的環境。
 在手機上可以用手勢放大縮小。預期進一步的完善。
 
